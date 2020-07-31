@@ -1,4 +1,4 @@
-### <meta name="author" content="Joel dos Anjos">
+<meta name="author" content="Joel dos Anjos">
 
 Here are some ideas to get you started:
 
