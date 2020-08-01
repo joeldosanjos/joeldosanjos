@@ -1,4 +1,4 @@
-# < !DOCTYPE Boas-vindas >
+# < !DOCTYPE boas-vindas >
 
 - 👨‍💻 < meta name="*author*" content="**_Joel dos Anjos_**" >
 - 🗝 < meta name="*keywords*" content="**_front-end, web development, UI/UX design_**" >
