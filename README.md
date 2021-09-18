@@ -11,9 +11,9 @@
 
 👨🏻‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, pela <a href="https://www.fateccruzeiro.edu.br"><b>Fatec Cruzeiro</b></a>.
 
-👨🏻‍💻 Atualmente estudo desenvolvimento front-end.
+👨🏻‍💻 Possuo prática em projetos desenvolvidos nas linguagens HTML/CSS, PHP, C# e Java.
 
-🤓 Também possuo noções de redes, banco de dados, engenharia de software, gestão de projetos e testes de software.
+🤓 Também possuo noções em redes de computadores, banco de dados, tech writing e testes de software.
 
 📤 Metas para 2021: enriquecer meu portfólio e conseguir um estágio.
 
