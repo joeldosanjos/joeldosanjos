@@ -11,7 +11,7 @@
 
 👨🏻‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, pela <a href="https://www.fateccruzeiro.edu.br"><b>Fatec Cruzeiro</b></a>.
 
-👨🏻‍💻 Possuo prática em projetos desenvolvidos nas linguagens HTML/CSS, JavaScript, PHP, C# e Java.
+👨🏻‍💻 Possuo prática em projetos desenvolvidos nas linguagens HTML/CSS, JavaScript, PHP e C#.
 
 🤓 Também possuo noções em redes de computadores, banco de dados, tech writing e testes de software.
 
