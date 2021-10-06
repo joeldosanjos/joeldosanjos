@@ -7,9 +7,11 @@
   />
 </a>
 
-🤠 Me chamo Joel dos Anjos.
+🤠 Pode me chamar de Joel.
 
 👨🏻‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, pela <a href="https://www.fateccruzeiro.edu.br"><b>Fatec Cruzeiro</b></a>.
+
+📚 Atualmente estudo tecnologias front-end.
 
 👨🏻‍💻 Possuo prática em projetos desenvolvidos nas linguagens HTML/CSS, JavaScript, PHP e C#.
 
