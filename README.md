@@ -9,9 +9,9 @@
 
 🤠 Pode me chamar de Joel.
 
-👨🏻‍🎓 Faço Análise e Desenvolvimento de Sistemas, pela <a href="https://www.fateccruzeiro.edu.br" target="_blank"><b>Fatec Cruzeiro</b></a>.
+👨🏻‍🎓 Faço Análise e Desenvolvimento de Sistemas, pela <a href="https://www.fateccruzeiro.edu.br"><b>Fatec Cruzeiro</b></a>.
 
-💼 Sou estagiário de desenvolvimento na <a href="https://newm.com.br/" target="_blank"><b>NewM</b></a>.
+💼 Sou estagiário de desenvolvimento na <a href="https://newm.com.br/"><b>NewM</b></a>.
 
 👨🏻‍💻 Possuo prática em projetos desenvolvidos nas linguagens HTML/CSS, JavaScript, PHP e C#.
 
