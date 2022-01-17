@@ -17,8 +17,6 @@
 
 🤓 Também possuo noções em redes de computadores, banco de dados, tech writing e testes de software.
 
-📤 Metas para 2021: enriquecer meu portfólio e conseguir um estágio.
-
 😄 Sinta-se livre para explorar meus repositórios.
 
 ## 🌎 Onde me encontrar
