@@ -11,7 +11,7 @@
 
 👨🏻‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, pela <a href="https://www.fateccruzeiro.edu.br"><b>Fatec Cruzeiro</b></a>.
 
-💼 Atualmente sou estagiário de desenvolvimento na NewM Mobile.
+💼 Atualmente sou estagiário de desenvolvimento na <a href="https://newm.com.br/"><b>NewM</b></a>.
 
 👨🏻‍💻 Possuo prática em projetos desenvolvidos nas linguagens HTML/CSS, JavaScript, PHP e C#.
 
