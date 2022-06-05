@@ -1,4 +1,4 @@
-# Olá, mundo! Boas-vindas ao meu perfil. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Olá, mundo! Boas-vindas ao meu perfil.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
@@ -13,7 +13,7 @@
 
 💼 Sou estagiário de desenvolvimento na <a href="https://newm.com.br/"><b>NewM</b></a>.
 
-👨🏻‍💻 Possuo prática em projetos desenvolvidos nas linguagens HTML/CSS, JavaScript, PHP e C#.
+👨🏻‍💻 Possuo prática em projetos desenvolvidos nas linguagens HTML/CSS, JavaScript, PHP, Swift C#.
 
 🤓 Também possuo noções em redes de computadores, banco de dados, tech writing e testes de software.
 
