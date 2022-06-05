@@ -13,7 +13,7 @@
 
 💼 Sou estagiário de desenvolvimento na <a href="https://newm.com.br/"><b>NewM</b></a>.
 
-👨🏻‍💻 Possuo prática em projetos desenvolvidos nas linguagens HTML/CSS, JavaScript, PHP, Swift C#.
+👨🏻‍💻 Possuo prática em projetos desenvolvidos nas linguagens HTML/CSS, JavaScript, PHP, Swift e C#.
 
 🤓 Também possuo noções em redes de computadores, banco de dados, tech writing e testes de software.
 
